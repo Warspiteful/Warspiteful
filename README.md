@@ -10,7 +10,7 @@
 **Notable Projects**
 - Salvation Lies Elsewhere (WIP) - a top-down shooter boss rush
 - [Lethal Position](https://gsedi.itch.io/lethal-position) - A narrative AR game told in a single room.
--    
+ 
 <!--
 **Warspiteful/Warspiteful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
