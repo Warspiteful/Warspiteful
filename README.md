@@ -3,7 +3,7 @@
 <!-- ## Game Programming -->
 **I'm a game programmer interested in telling emotion-evoking narratives through gameplay and writing.**
 
-- 🔭 Social Chair of Northeastern's Game Development Club
+- 🔭 Junior Game Engineer
 - 🎨 Publishing my projects on [Itch](warspiteful.itch.io/)
 - ⚙️ Frequently use: Unity, Ren'Py, Godot
  
